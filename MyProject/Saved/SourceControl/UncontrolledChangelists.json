@@ -18,10 +18,18 @@
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Interfaces/UserInterface/WB_Interact.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/BP_Dialoguecomponent.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Interfaces/UserInterface/WB_Options.uasset",
-				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/WB_Options.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Interfaces/UserInterface/WB_Dialogue.uasset",
-				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/WB_Dialogue.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Interfaces/UserInterface/P_NPCInteract.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/NPCs/BP_BirdNPC.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/DialogueTree/BT_DialogueTree1.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/DialogueTree/BB_Dialogue.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/DialogueTree/BTTask_StartDialogue.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/DialogueTree/BTTask_DisplayLine.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/BTTask_StartDialogue.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/BT_DialogueTree1.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/BB_Dialogue.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/WB_Options.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/WB_Dialogue.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/P_NPCInteract.uasset"
 			]
 		}
