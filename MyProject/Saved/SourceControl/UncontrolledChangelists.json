@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/NPCs/BP_NPC.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/BP_NPC.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/NPCs/BP_Spline.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Interfaces/InteractInterface.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/NPCs/BP_BirdNPC.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/FB/YP3C2X8MZZVAC0WZRKNESN.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/1K/EJ3J36DO1FJZ3HZBGQG3VA.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/P_Interact.uasset",
+				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/P_NPCInteract.uasset",
 				"F:/DigM Classes/Game Design/Project 6 - Final/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"F:/DigM Classes/Game Design/Project 6 - Final/MyProject/Content/Dialogue/BP_Interact.uasset",
 				"F:/DigM Classes/Game Design/Project 6 - Final/MyProject/Content/Dialogue/BP_Dialoguecomponent.uasset",
@@ -20,6 +31,7 @@
 				"F:/DigM Classes/Game Design/Project 6 - Final/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/9T/11LB65NZB12YM2P4O6G6XT.uasset",
 				"F:/DigM Classes/Game Design/Project 6 - Final/MyProject/Content/Dialogue/BP_NPC.uasset",
 				"F:/DigM Classes/Game Design/Project 6 - Final/MyProject/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+<<<<<<< HEAD
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/NPCs/BP_NPC.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/BP_NPC.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/NPCs/BP_Spline.uasset",
@@ -33,6 +45,8 @@
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/NPCs/Tasks/BTTask_MoveRandomLocation.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/NPCs/BT_BirdNPC.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/NPCs/BB_BirdNPC.uasset",
+=======
+>>>>>>> 376c5c35ddcb8bb5fc240b0527471efd62ef32fd
 				"F:/DigM Classes/Game Design/Project 6 - Final/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
 				"F:/DigM Classes/Game Design/Project 6 - Final/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset",
 				"F:/DigM Classes/Game Design/Project 6 - Final/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
