@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Game Design/Final/FFMM/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Game Design/Final/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/WR/8ILPT7DJUXAITDNCNTP5H3.uasset",
+				"D:/Game Design/Final/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BL/2VFLO01MLUHS2LHA965AH5.uasset",
+				"D:/Game Design/Final/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/VS/N7GYFAXHE5VUQGLY1GXICY.uasset",
 				"C:/Users/FOWLERMB1/Documents/GitHub/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/8O/7FTVTWI3EO9GO8E5KJ8U9R.uasset",
 				"C:/Users/FOWLERMB1/Documents/GitHub/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6A/RVVBDVUI8EYQBDKQP2AWJY.uasset",
 				"C:/Users/FOWLERMB1/Documents/GitHub/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YJ/E6RSIA3XH822TT5Y5R80JU.uasset",
@@ -76,7 +80,6 @@
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/Dialogue/DialogueTree/BT_NPCLeave.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BL/2VFLO01MLUHS2LHA965AH5.uasset",
 				"C:/Users/powellb1/Documents/GitHub/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/WR/8ILPT7DJUXAITDNCNTP5H3.uasset",
-				"D:/Game Design/Final/FFMM/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/burtonmc/Documents/GitHub/FFMM/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/V9/RTGGKPH52OBS6EWD75FR0Z.uasset",
 				"C:/Users/burtonmc/Documents/GitHub/FFMM/MyProject/Content/Added_Assests/Bush/9_2.uasset",
 				"C:/Users/burtonmc/Documents/GitHub/FFMM/MyProject/Content/Added_Assests/Bush/9_2_Mat.uasset",
